@@ -1,2 +1,1 @@
-
-1. this is from PC_1 to Bare Server
+this is test2 for br1 in PC_1
